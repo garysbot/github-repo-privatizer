@@ -7,6 +7,7 @@ This script automates the process of setting GitHub repositories to private. You
 - **Language**: JavaScript
 - **Runtime**: Node.js
 - **Dependencies**: Axios
+- **API**: Github
 
 ## Directions
 1. **Install Node.js**: Ensure you have Node.js installed on your system.
