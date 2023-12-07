@@ -1,4 +1,4 @@
-# GitHub Repository Customizer
+# GitHub Repository Privatizer
 
 ## Description
 This script automates the process of setting GitHub repositories to private. You can customize the keyword targeting logic to match your preferences for finding repositories.
